@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1475812674 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio25\src\convertir.cpp
+	"Convertir.h"
+
+1475812463 c:\users\omarm\dropbox\codeblocks proyects\ejercicio25\include\convertir.h
+
+1475812734 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio25\main.cpp
+	<iostream>
+	"Convertir.h"
+
